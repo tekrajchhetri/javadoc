@@ -14,11 +14,3 @@ Welcome to Read doc tutorial's documentation!
    pages/tutorial
 
 
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
-* :ref:`welcome`
