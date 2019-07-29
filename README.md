@@ -20,3 +20,5 @@ java -jar result.jar -f C:\Music\file.log -n=8
 ###Sample Result###
 
 ![Alt text](https://i.ibb.co/2Nzsh9q/result.png)
+
+this is it
